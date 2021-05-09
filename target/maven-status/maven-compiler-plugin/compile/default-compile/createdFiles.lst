@@ -1,0 +1,12 @@
+com/airhacks/todolist/web/JsfConfig.class
+com/airhacks/todolist/repository/TodoItemRepository.class
+com/airhacks/todolist/rest/dto/ToDoItemRequest.class
+com/airhacks/Calculator.class
+com/airhacks/JAXRSConfiguration.class
+com/airhacks/todolist/web/view/TodoListView.class
+com/airhacks/todolist/rest/ToDoResource.class
+com/airhacks/todolist/rest/dto/ToDoItemResponse.class
+com/airhacks/todolist/service/TodoService.class
+com/airhacks/todolist/model/TodoItem.class
+com/airhacks/ping/boundary/PingResource.class
+com/airhacks/todolist/web/view/TodoAddView.class

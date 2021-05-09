@@ -1,0 +1,12 @@
+/home/mucha/Warsztaty/warsztaty/src/main/java/com/airhacks/todolist/rest/ToDoResource.java
+/home/mucha/Warsztaty/warsztaty/src/main/java/com/airhacks/todolist/web/view/TodoListView.java
+/home/mucha/Warsztaty/warsztaty/src/main/java/com/airhacks/todolist/rest/dto/ToDoItemResponse.java
+/home/mucha/Warsztaty/warsztaty/src/main/java/com/airhacks/todolist/repository/TodoItemRepository.java
+/home/mucha/Warsztaty/warsztaty/src/main/java/com/airhacks/todolist/service/TodoService.java
+/home/mucha/Warsztaty/warsztaty/src/main/java/com/airhacks/Calculator.java
+/home/mucha/Warsztaty/warsztaty/src/main/java/com/airhacks/todolist/rest/dto/ToDoItemRequest.java
+/home/mucha/Warsztaty/warsztaty/src/main/java/com/airhacks/todolist/model/TodoItem.java
+/home/mucha/Warsztaty/warsztaty/src/main/java/com/airhacks/todolist/web/view/TodoAddView.java
+/home/mucha/Warsztaty/warsztaty/src/main/java/com/airhacks/ping/boundary/PingResource.java
+/home/mucha/Warsztaty/warsztaty/src/main/java/com/airhacks/todolist/web/JsfConfig.java
+/home/mucha/Warsztaty/warsztaty/src/main/java/com/airhacks/JAXRSConfiguration.java
